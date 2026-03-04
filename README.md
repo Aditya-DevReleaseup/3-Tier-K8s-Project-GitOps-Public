@@ -2,7 +2,7 @@
 
 
 
-(https://raw.githubusercontent.com/Aditya-DevReleaseup/images-data/main/downloaded_file.png)
+![Project Architecture](https://raw.githubusercontent.com/Aditya-DevReleaseup/images-data/main/downloaded_file.png)
 
 🔹 Tech Stack
 
