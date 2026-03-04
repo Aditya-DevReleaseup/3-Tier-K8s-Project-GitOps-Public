@@ -1,9 +1,8 @@
 # 3-Tier Kubernetes Project with GitOps, Dynamic PVC, and Route-53 Integration
 
-## For more projects, check out  
-## [https://harishnshetty.github.io/projects.html](https://harishnshetty.github.io/projects.html)
 
-[![Video Tutorial]( https://github.com/harishnshetty/image-data-project/blob/7228511f5c982daa50aa7a74fd14c4f1fec88a90/3-tier-k8s-project.jpg)](https://youtu.be/NDVVMcVqyvc)
+
+( [downloaded_file.png)](https://github.com/Aditya-DevReleaseup/images-data/blob/main/downloaded_file.png)]
 
 🔹 Tech Stack
 
@@ -270,7 +269,7 @@ kubectl get nodes
 
 Clone the github repo
 ```
-git clone https://github.com/harishnshetty/3-Tier-K8s-Project-GitOps.git
+git clone (https://github.com/Aditya-DevReleaseup/3-Tier-K8s-Project-GitOps-Public.git)
 ```
 
 **MONGO Database Setup**
