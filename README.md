@@ -394,7 +394,7 @@ Password: encrypted-password
 # 12. Configure Route53
 
 ## 13.  Delete EKS Cluster (Cleanup) finally u done a project 
- - For more conents reach out https://harishnshetty.github.io/projects.html
+
 
 ```bash
 eksctl delete cluster --name my-cluster --region ap-south-1
