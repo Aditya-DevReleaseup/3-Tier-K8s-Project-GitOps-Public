@@ -2,7 +2,7 @@
 
 
 
-( [downloaded_file.png)](https://github.com/Aditya-DevReleaseup/images-data/blob/main/downloaded_file.png)]
+(https://github.com/Aditya-DevReleaseup/images-data/blob/main/downloaded_file.png)
 
 🔹 Tech Stack
 
