@@ -3,6 +3,9 @@
 
 
 ![Project Architecture](https://raw.githubusercontent.com/Aditya-DevReleaseup/images-data/main/downloaded_file.png)
+![Dashboard](https://raw.githubusercontent.com/Aditya-DevReleaseup/images-data/main/dashboard-3-tier-k8s-mongo-db-helm.png)
+![Dashboard](https://raw.githubusercontent.com/Aditya-DevReleaseup/images-data/main/item-3-tier-mongo-db.png)
+
 
 🔹 Tech Stack
 
