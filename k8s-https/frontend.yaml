@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: aditya2dev/my-frontend  # Update with your ECR repository
+        image: aditya2dev/my-frontend:latest
         ports:
         - containerPort: 80
         resources:
