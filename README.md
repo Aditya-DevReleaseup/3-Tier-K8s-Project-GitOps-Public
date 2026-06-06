@@ -1,4 +1,4 @@
-# 3-Tier Kubernetes Project with GitOps, Dynamic PVC, and Route-53 Integration
+# Kubernetes Project with GitOps, Dynamic PVC, and Route-53 Integration
 
 
 
